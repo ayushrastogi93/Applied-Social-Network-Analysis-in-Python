@@ -1,0 +1,14 @@
+week 3 
+
+1.0.67 
+2.0.6
+3.0.33
+4.6
+5. the closeness centrality of a node describes how far the node is from others.
+--we can use subsets of node-pairs to approximate betweenness centrality
+--the assumption of degree centrality is that important nodes have more connections.
+6.
+7. 0.95
+8.0.625
+9.0.57,0.09
+10. node'D basic PR at step k is always 0 .
